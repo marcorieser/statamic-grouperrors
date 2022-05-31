@@ -1,3 +1,6 @@
+name: Superino
 super: true
+groups:
+  - group_1
 id: 3f926b79-6634-44a3-b961-4ef8a27af2bd
 password_hash: $2y$10$o/LfcE31EMtAaeQVlhRhyeS94XQhaMe6Lhlo.qFbsQw5ld83jtarO
